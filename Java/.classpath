@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Assignments/src"/>
+	<classpathentry kind="src" path="CheckForPrimeNumbers/src"/>
+	<classpathentry kind="src" path="ControlStructuresDemo/src"/>
+	<classpathentry kind="src" path="Demos/src"/>
+	<classpathentry kind="src" path="Inheritance/src"/>
+	<classpathentry kind="src" path="InputCommandLine/src"/>
+	<classpathentry kind="src" path="JavaFiles/src"/>
+	<classpathentry kind="src" path="numbers/src"/>
+	<classpathentry kind="src" path="ObjectOrientedProgramming/src"/>
+	<classpathentry kind="src" path="SchoolManagementSystem/src"/>
+	<classpathentry kind="src" path="StudentDatabase Application/src"/>
+	<classpathentry kind="output" path="Assignments/bin"/>
+</classpath>
